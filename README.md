@@ -1,4 +1,4 @@
-# motiondetector
+
 Motion Detector
 MotionDetector.py -> Implementation of the Application
 This is a motion detectors implemented with the help of python3. 
